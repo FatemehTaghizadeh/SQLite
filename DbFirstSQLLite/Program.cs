@@ -12,7 +12,6 @@ namespace DbFirstSQLLite
         {
             using var dbcontext = new tehranContext();
 
-
             var datas = dbcontext.Images;
             var dir = @"P:\Projects\C#Projects\DbFirstSQLLite\DbFirstSQLLite\result";
 
