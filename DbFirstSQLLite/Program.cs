@@ -14,7 +14,6 @@ namespace DbFirstSQLLite
 
             var datas = dbcontext.Images;
             
-            
             var dir = @"P:\Projects\C#Projects\DbFirstSQLLite\DbFirstSQLLite\result";
 
             foreach (var data in datas)
