@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbFirstSQLLite", "DbFirstSQLLite\DbFirstSQLLite.csproj", "{DBE46E7F-0241-416A-B8E2-E912F1B576A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE46E7F-0241-416A-B8E2-E912F1B576A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE46E7F-0241-416A-B8E2-E912F1B576A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE46E7F-0241-416A-B8E2-E912F1B576A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE46E7F-0241-416A-B8E2-E912F1B576A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3735807C-58AA-4AC7-8519-65ADF6843021}
+	EndGlobalSection
+EndGlobal
